@@ -1,5 +1,5 @@
 # JPGtoPNGconverter
-a little function which can convert JPG into PNG.
+A little function which can convert JPG into PNG.
 
 ## Argument
 - target_dir : the target image directory
